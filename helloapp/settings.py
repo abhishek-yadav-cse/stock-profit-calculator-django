@@ -25,7 +25,7 @@ SECRET_KEY = '5u9yao91y+#1pr1g2kqgsd10=^tg(%ej7yl=9vx=f^jff-b80u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['safe-peak-75880.herokuapp.com', 'justabhishekyadav.xyz']
+ALLOWED_HOSTS = ['safe-peak-75880.herokuapp.com', 'www.justabhishekyadav.xyz']
 
 
 # Application definition
