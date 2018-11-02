@@ -2,7 +2,7 @@
 
 
 ## Description
-
+<pre>
 The following are the inputs:
 A stock symbol
 Allotment (number of shares)
@@ -17,7 +17,7 @@ Cost (Allotment x Initial Share Price + commissions + Tax on Capital Gain)
 Net Profit (in dollars)
 Return on investment (in %)
 Break even price (in dollars)
- 
+ </pre>
 
 ## Example
 
