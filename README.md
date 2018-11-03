@@ -52,13 +52,13 @@ Cost
 $3,796.25
 
 Cost details: 
-Total Purchase Price
-100 × $25 = 2,500.00
-Buy Commission = 10.00
-Sell Commission = 15.00
-Tax on Capital Gain = 15% of $8,475.00 = 1,271.25
-Net Profit
-$7,203.75
+Total Purchase Price 
+100 × $25 = 2,500.00<br>
+Buy Commission = 10.00<br>
+Sell Commission = 15.00<br>
+Tax on Capital Gain = 15% of $8,475.00 = 1,271.25<br>
+Net Profit 
+$7,203.75<br>
 
 Return on Investment
 189.76%
