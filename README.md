@@ -4,6 +4,7 @@
 ## Description
 <pre>
 The following are the inputs:
+
 A stock symbol
 Allotment (number of shares)
 Final share price (in dollars)
