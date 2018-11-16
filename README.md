@@ -12,6 +12,7 @@ Sell commission (in dollars)
 Inital share price (in dollars)
 Buy commission (in dollars)
 Captial gain tax rate (in %)
+
 Output the following items after computation:
 Proceeds (Allotment x Final share price)
 Cost (Allotment x Initial Share Price + commissions + Tax on Capital Gain)
