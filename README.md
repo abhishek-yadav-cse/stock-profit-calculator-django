@@ -55,7 +55,7 @@ $11,000.00
 Cost
 $3,796.25
 
-Cost details: 
+Cost details: <br>
 Total Purchase Price 
 100 × $25 = 2,500.00<br>
 Buy Commission = 10.00<br>
