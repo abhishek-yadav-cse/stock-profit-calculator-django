@@ -54,7 +54,8 @@ class HomePageView(TemplateView):
                     TaxonCapitalGain = (CapitalGainTaxRate/100) *capitalGain1
 
                     print("")
-
+                    //
+                    
                     #Net Profit (in dollars)
                     NetProfit = Proceeds - Cost
                     print ("Net Profit")
